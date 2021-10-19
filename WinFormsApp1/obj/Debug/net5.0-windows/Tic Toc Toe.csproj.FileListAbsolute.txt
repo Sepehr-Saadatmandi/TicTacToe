@@ -1,0 +1,19 @@
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Tic Toc Toe.exe
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Tic Toc Toe.deps.json
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Tic Toc Toe.runtimeconfig.json
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Tic Toc Toe.runtimeconfig.dev.json
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Tic Toc Toe.dll
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\ref\Tic Toc Toe.dll
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\bin\Debug\net5.0-windows\Tic Toc Toe.pdb
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\Tic Toc Toe.csproj.AssemblyReference.cache
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\Tic_Toc_Toe.Properties.Resources.resources
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\Tic Toc Toe.csproj.GenerateResource.cache
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\Tic Toc Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\Tic Toc Toe.AssemblyInfoInputs.cache
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\Tic Toc Toe.AssemblyInfo.cs
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\Tic Toc Toe.csproj.CoreCompileInputs.cache
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\Tic Toc Toe.dll
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\ref\Tic Toc Toe.dll
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\Tic Toc Toe.pdb
+C:\Users\Sepehr\Desktop\Windows Form App\TicTocToe\WinFormsApp1\WinFormsApp1\obj\Debug\net5.0-windows\Tic Toc Toe.genruntimeconfig.cache
